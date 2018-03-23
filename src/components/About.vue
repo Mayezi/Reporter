@@ -36,6 +36,10 @@ img{
   <ul>
     <li>IE8+，建议使用Chrome浏览器，支持所有兼容 ECMAScript 5 的浏览器</li>
   </ul>
+  <h2>遇到问题怎么办？</h2>
+  <ul>
+    <li>可以在github留issue <a href="https://github.com/Mayezi/Reporter">项目主页</a></li>
+  </ul>
   <h2>特性</h2>
     <ul>
     <li>删除条目在右侧</li>
